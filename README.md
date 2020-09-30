@@ -12,5 +12,7 @@ Q: What's "Stan actually works on the unconstrained space"??
 
 [loo vignettes](https://github.com/stan-dev/loo/tree/master/vignettes)
 
+[write loo in stan](https://mc-stan.org/loo/articles/loo2-with-rstan.html)
+
 
 

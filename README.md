@@ -15,4 +15,6 @@ Q: What's "Stan actually works on the unconstrained space"??
 [write loo in stan](https://mc-stan.org/loo/articles/loo2-with-rstan.html)
 
 
+# R's C api
 
+[R's internal C API](https://github.com/hadley/r-internals)

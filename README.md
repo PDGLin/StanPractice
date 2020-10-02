@@ -18,3 +18,5 @@ Q: What's "Stan actually works on the unconstrained space"??
 # R's C api
 
 [R's internal C API](https://github.com/hadley/r-internals)
+
+[Rstan on Windows](https://discourse.mc-stan.org/t/rstan-on-windows/16673)

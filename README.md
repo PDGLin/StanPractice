@@ -8,7 +8,7 @@
 
 [Towards A Principled Bayesian Workflow](https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html)
 
-Q: What's "Stan actually works on the unconstrained space"??
+Q: What's "Stan actually works on the unconstrained space"?? A: It's described in the Chapter 10. Constraint Transforms in the [Reference Manual](https://mc-stan.org/docs/2_24/functions-reference-2_24.pdf)
 
 # leave-one-out (loo) cross-validation
 

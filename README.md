@@ -6,6 +6,8 @@
 
 [Prior Choice Recommendations](https://github.com/stan-dev/stan/wiki/Prior-Choice-Recommendations)
 
+[Towards A Principled Bayesian Workflow](https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html)
+
 Q: What's "Stan actually works on the unconstrained space"??
 
 # leave-one-out (loo) cross-validation

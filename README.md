@@ -10,6 +10,11 @@
 
 [How the Shape of a Weakly Informative Prior Affects Inferences](https://mc-stan.org/users/documentation/case-studies/weakly_informative_shapes.html)
 
+Key criteria to consider (guess):
+(1) Geometry of posterior in high-dimensional space should be homogeneous. It is good to keep all sampling parameters in the same scale (e.g., Normal(0, 1)).
+(2)
+
+
 In complex models, however, it typically takes a significant amount of data for the likelihood to be able to identify a necessarily small region of parameter space. The more expensive and sparse the data and the more complex the likelihood, the more informative diffuse priors will be. If we want to make reasonable inferences in these models then we need more principled prior distributions that are actually coherent with our prior beliefs.
 
 Weakly informative priors introduce scale information to regularize inferences. Scales are straightforward to reason about in applied problems, especially when units are carefully laid out, and they provide just enough information to regularize non-identified or weakly-identified likelihoods without strongly biasing the posterior away from reasonable parameter values. In order to construct weakly informative priors we need to first decompose our model into components, define default values, identify scales, then choose an explicit shape for our prior.

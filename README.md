@@ -10,7 +10,7 @@
 
 [How the Shape of a Weakly Informative Prior Affects Inferences](https://mc-stan.org/users/documentation/case-studies/weakly_informative_shapes.html)
 
-Key criteria to consider (guess):\\
+Key criteria to consider (guess):<br/>
 (1) Geometry of posterior in high-dimensional space should be homogeneous. It is good to keep all sampling parameters in the same scale (e.g., Normal(0, 1)).
 (2)
 

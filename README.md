@@ -15,6 +15,7 @@ In complex models, however, it typically takes a significant amount of data for 
 Weakly informative priors introduce scale information to regularize inferences. Scales are straightforward to reason about in applied problems, especially when units are carefully laid out, and they provide just enough information to regularize non-identified or weakly-identified likelihoods without strongly biasing the posterior away from reasonable parameter values. In order to construct weakly informative priors we need to first decompose our model into components, define default values, identify scales, then choose an explicit shape for our prior.
 
 
+When the scales are well-chosen all weakly informative priors behave similarly, regularizing the posterior by penalizing extreme parameter values. 
 
 Q: What's "Stan actually works on the unconstrained space"?? A: It's described in the Chapter 10. Constraint Transforms in the [Reference Manual](https://mc-stan.org/docs/2_24/functions-reference-2_24.pdf)
 

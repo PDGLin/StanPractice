@@ -13,9 +13,9 @@
 [The Prior Can Often Only Be Understood in the Context of the Likelihood](https://www.mdpi.com/1099-4300/19/10/555)
 
 Key criteria to consider (guess):<br/>
-(1) Geometry of posterior in high-dimensional space should be homogeneous. It is good to keep all sampling parameters in the same scale (e.g., Normal(0, 1)).
-(2) Being generative
-(3) Being predictive
+(1) Geometry of posterior in high-dimensional space should be homogeneous. It is good to keep all sampling parameters in the same scale (e.g., Normal(0, 1)).<br/>
+(2) Being generative <br/>
+(3) Being predictive <br/>
 
 
 In complex models, however, it typically takes a significant amount of data for the likelihood to be able to identify a necessarily small region of parameter space. The more expensive and sparse the data and the more complex the likelihood, the more informative diffuse priors will be. If we want to make reasonable inferences in these models then we need more principled prior distributions that are actually coherent with our prior beliefs.

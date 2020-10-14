@@ -12,6 +12,8 @@
 
 [The Prior Can Often Only Be Understood in the Context of the Likelihood](https://www.mdpi.com/1099-4300/19/10/555)
 
+[Penalising Model Component Complexity: A Principled, Practical Approach to Constructing Priors](https://projecteuclid.org/euclid.ss/1491465621)
+
 Key criteria to consider (guess):<br/>
 (1) Geometry of posterior in high-dimensional space should be homogeneous. It is good to keep all sampling parameters in the same scale (e.g., Normal(0, 1)).<br/>
 (2) Being generative <br/>

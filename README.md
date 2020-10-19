@@ -35,7 +35,8 @@ I'm still learning below refs. <br/>
 [Prior Choice Recommendations](https://github.com/stan-dev/stan/wiki/Prior-Choice-Recommendations) <br/>
 [Towards A Principled Bayesian Workflow](https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html) <br/>
 [Penalising Model Component Complexity: A Principled, Practical Approach to Constructing Priors](https://projecteuclid.org/euclid.ss/1491465621) <br/>
-
+[Moving beyond noninformative priors: why and how to choose
+weakly informative priors in Bayesian analyses](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.05985)
 
 Some comments
 

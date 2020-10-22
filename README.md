@@ -13,7 +13,7 @@
 
 (3) Computational efficiency <br/>
 - Geometry: The resutling posterior is better to have a homogeneous manifold shape in the high-dimensional parameter space [2] <br/>
-- Scale and shape of weakly informative prior [3] <br/>
+- Scale and shape of weakly informative prior [3]. Specific informative prior [5] <br/>
 - Keep all sampling parameters in the same scale (e.g., Normal(0, 1)). <br/>
 - Step size should not be too small, otherwise chain will move very slow. <br/>
 
@@ -30,6 +30,7 @@ Refs: <br/>
 [2] [A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434) <br/>
 [3] [How the Shape of a Weakly Informative Prior Affects Inferences](https://mc-stan.org/users/documentation/case-studies/weakly_informative_shapes.html) <br/>
 [4] [Computational and statistical issues with uniform interval priors](https://statmodeling.stat.columbia.edu/2017/11/28/computational-statistical-issues-uniform-interval-priors/) <br/>
+[5] [Prior Choice Recommendations](https://github.com/stan-dev/stan/wiki/Prior-Choice-Recommendations) <br/>
 
 I'm still learning below refs. <br/>
 [Prior Choice Recommendations](https://github.com/stan-dev/stan/wiki/Prior-Choice-Recommendations) <br/>

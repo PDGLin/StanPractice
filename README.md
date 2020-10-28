@@ -38,6 +38,7 @@ I'm still learning below refs. <br/>
 [Penalising Model Component Complexity: A Principled, Practical Approach to Constructing Priors](https://projecteuclid.org/euclid.ss/1491465621) <br/>
 [Moving beyond noninformative priors: why and how to choose
 weakly informative priors in Bayesian analyses](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.05985)
+[Collinearity of Predictors in Regressions](https://mc-stan.org/docs/2_25/stan-users-guide/collinearity-section.html#collinearity.section)
 
 Some comments
 

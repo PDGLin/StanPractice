@@ -52,6 +52,11 @@ When the scales are well-chosen all weakly informative priors behave similarly, 
 
 Q: What's "Stan actually works on the unconstrained space"?? A: It's described in the Chapter 10. Constraint Transforms in the [Reference Manual](https://mc-stan.org/docs/2_24/functions-reference-2_24.pdf)
 
+# Within-chain parallelization
+
+[reduce_sum tutorial](https://mc-stan.org/users/documentation/case-studies/reduce_sum_tutorial.html)
+
+
 # leave-one-out (loo) cross-validation
 
 [loo vignettes](https://github.com/stan-dev/loo/tree/master/vignettes)
